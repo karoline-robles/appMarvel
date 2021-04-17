@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MarvelApp</string>
+    <string name="app_marvel">Marvel</string>
+    <string name="user_name">NOME:</string>
+    <string name="user_gmail">GMAIL:</string>
+    <string name="entrar">ENTRAR:</string>
+    <string name="naoconta">NÃO TEM UMA CONTA? CADASTRE-SE:</string>
+    <string name="user_senha">SENHA:</string>
+    <string name="user_confirmarSenha">CONFIMAR SENHA:</string>
+</resources>
